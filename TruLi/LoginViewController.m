@@ -30,6 +30,7 @@
             UIAlertView *alertview = [[UIAlertView alloc]initWithTitle:@"Oops!" message:@"Make sure you enter a username and password!" delegate:nil cancelButtonTitle:@"OK" otherButtonTitles: nil];
             //show the alert
             [alertview show];
+            [self.tabBarController performSegueWithIdentifier:@"showLogin2" sender:sender];
         }
         else{
             //attempt to login
@@ -39,7 +40,7 @@
                     [alertView show];
                 }
                 else{
-                    [self.navigationController popToRootViewControllerAnimated:YES];
+                    [self performSegueWithIdentifier:@"showApplication" sender:user];
                 }
             }];
         }

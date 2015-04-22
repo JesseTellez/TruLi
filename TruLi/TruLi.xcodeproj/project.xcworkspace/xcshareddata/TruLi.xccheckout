@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F04693FA-3569-4951-AA94-405F28211D02</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TruLi</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>023FF4384C8040E7D7FF9D3EC01304B1946FB326</key>
+		<string>https://github.com/samjhooker/SocialMediaApp.git</string>
+		<key>51AB54314ED511B97A262D5B04354A9B8F32A6EE</key>
+		<string>https://github.com/JesseTellez/TruLi.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TruLi.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>023FF4384C8040E7D7FF9D3EC01304B1946FB326</key>
+		<string>../../../SocialMediaApp</string>
+		<key>51AB54314ED511B97A262D5B04354A9B8F32A6EE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JesseTellez/TruLi.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>51AB54314ED511B97A262D5B04354A9B8F32A6EE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>023FF4384C8040E7D7FF9D3EC01304B1946FB326</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SocialMediaApp</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>51AB54314ED511B97A262D5B04354A9B8F32A6EE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TruLi</string>
+		</dict>
+	</array>
+</dict>
+</plist>
